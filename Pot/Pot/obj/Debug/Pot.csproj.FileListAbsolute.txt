@@ -1,1 +1,9 @@
 C:\Users\Matt\Documents\Pot\Pot\Pot\bin\Debug\Pot.exe.config
+C:\Users\Matt\Documents\Pot\Pot\Pot\bin\Debug\Pot.exe
+C:\Users\Matt\Documents\Pot\Pot\Pot\bin\Debug\Pot.pdb
+C:\Users\Matt\Documents\Pot\Pot\Pot\obj\Debug\Pot.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Pot\Pot\Pot\obj\Debug\Pot.Form1.resources
+C:\Users\Matt\Documents\Pot\Pot\Pot\obj\Debug\Pot.Properties.Resources.resources
+C:\Users\Matt\Documents\Pot\Pot\Pot\obj\Debug\Pot.csproj.GenerateResource.Cache
+C:\Users\Matt\Documents\Pot\Pot\Pot\obj\Debug\Pot.exe
+C:\Users\Matt\Documents\Pot\Pot\Pot\obj\Debug\Pot.pdb
